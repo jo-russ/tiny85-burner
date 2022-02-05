@@ -13,4 +13,4 @@ Burn USB bootloader to atTiny85 (and some others too) witn arduino Nano3
 7. Download drivers: https://github.com/digistump/DigistumpArduino/releases
 8. Enjoy your digispark clone!
 
-Mode info on this project here: https://weekendrepair.wordpress.com/2022/02/05/flashing-usb-bootloader-to-at-tiny85-with-nano3-board/
+More info on this project here: https://weekendrepair.wordpress.com/2022/02/05/flashing-usb-bootloader-to-at-tiny85-with-nano3-board/
